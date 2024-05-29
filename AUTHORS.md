@@ -39,3 +39,5 @@
 - Katerina Toumpektsi <<e.toumpeksti@gmail.com>> [@katarametin](https://github.com/katarametin)
 - Joelle Baehr-Bruyere <<joelle.baehr-bruyere@epfl.ch>> [@baehrjo](https://github.com/baehrjo)
 - Adam Anouar <<aanouar@student.ethz.ch>> [@AdamAnouar](https://github.com/AdamAnouar)
+- Joseph Kenny <<kenny@arch.ethz.ch>> [@jckenny59](https://github.com/jckenny59)
+- Gido Dielemans <<gido.dielemans@tum.de>> [@gidodielemans](http://github.com/gidodielemans)
